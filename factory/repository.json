@@ -1,0 +1,9 @@
+{
+	"name": "repository",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f01f7855-f525-4cff-949e-67b17f085adc",
+		"tenantId": "da9215ee-34f0-4b43-ae62-d3893404c7fa"
+	}
+}
